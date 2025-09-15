@@ -42,4 +42,4 @@ See [`requirements.txt`](requirements.txt).
 
 ## Live at : https://fraud-detection-api-ugabyqm5yucb2sxijtymt8.streamlit.app/
 
-MIT License (add your license details here).
+
